@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     long long k;
     if (!(std::cin >> k))
-        cin k = 0;
+        cin >> k = 0;
     double fare;
     if (k <= 2) {
         fare = 4.00;
